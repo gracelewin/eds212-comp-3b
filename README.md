@@ -2,3 +2,5 @@
 Project to practice making and working with vectors in R & Python
 
 - Go hiking
+
+## Linear algebra is super cool!!
